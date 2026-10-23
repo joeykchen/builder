@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/goplus/spx/v3/pkg/spx"
+	"github.com/goplus/spx/v4/pkg/spx"
 )
 
 // CommandSpec describes an available AI command, derived from a command registration.
